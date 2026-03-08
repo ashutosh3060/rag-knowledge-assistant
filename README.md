@@ -2,4 +2,4 @@
 This repo contains code for building a knowledge assistant using the rag
 
 Modify accordingly
-No progress almost
+No progress almost- March 2nd week
